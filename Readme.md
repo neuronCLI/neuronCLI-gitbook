@@ -2,10 +2,10 @@
 
 This repository contains the official **NeuronCLI** documentation, structured for GitBook.
 
-![NeuronCLI Logo](https://neuronCLI.com/logo.png)
+![NeuronCLI Logo](https://github.com/neuronCLI/neuronCLI-gitbook/blob/main/neuronCLIlogo.png)
 
 ## 📹 Video Demo
-[![Watch the Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the Video](https://github.com/neuronCLI/neuronCLI-gitbook/blob/main/demo.mp4)
 
 Click the image above to watch a **demo of NeuronCLI**.
 
