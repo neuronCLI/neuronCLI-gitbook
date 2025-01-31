@@ -1,5 +1,7 @@
 ---
 description: Learn how to use NeuronCLI effectively.
+cover: .gitbook/assets/banka.png
+coverY: 0
 ---
 
 # Usage

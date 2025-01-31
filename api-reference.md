@@ -1,5 +1,7 @@
 ---
 description: NeuronCLI API documentation.
+cover: .gitbook/assets/banka.png
+coverY: 0
 ---
 
 # API Reference

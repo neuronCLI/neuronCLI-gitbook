@@ -1,5 +1,7 @@
 ---
 description: Frequently asked questions about NeuronCLI.
+cover: .gitbook/assets/banka.png
+coverY: 0
 ---
 
 # FAQ

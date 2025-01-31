@@ -1,5 +1,7 @@
 ---
 description: This guide will help you install and set up NeuronCLI.
+cover: .gitbook/assets/banka.png
+coverY: 0
 ---
 
 # Getting Started

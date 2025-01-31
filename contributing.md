@@ -1,5 +1,7 @@
 ---
 description: Guidelines for contributing to NeuronCLI.
+cover: .gitbook/assets/banka.png
+coverY: 0
 ---
 
 # Contributing

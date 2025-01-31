@@ -1,5 +1,7 @@
 ---
 description: Common issues and their fixes.
+cover: .gitbook/assets/banka.png
+coverY: 0
 ---
 
 # Troubleshooting

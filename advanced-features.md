@@ -1,5 +1,7 @@
 ---
 description: Explore the extended capabilities of NeuronCLI.
+cover: .gitbook/assets/banka.png
+coverY: 0
 ---
 
 # Advanced Features

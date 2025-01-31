@@ -1,5 +1,7 @@
 ---
 description: Contributing and extending NeuronCLI.
+cover: .gitbook/assets/banka.png
+coverY: 0
 ---
 
 # Development

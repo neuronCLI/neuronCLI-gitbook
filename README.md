@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/banka.png
+coverY: 0
+---
+
 # Introduction
 
 NeuronCLI is an AI-powered command-line interface designed to help developers and researchers interact with AI agents efficiently. It provides a seamless way to build, test, and automate AI-driven workflows directly from the terminal.

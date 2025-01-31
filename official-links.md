@@ -1,5 +1,7 @@
 ---
 description: official links of NeuronCLI
+cover: .gitbook/assets/banka.png
+coverY: 0
 ---
 
 # Official Links

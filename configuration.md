@@ -1,5 +1,7 @@
 ---
 description: Details on configuring NeuronCLI agents.
+cover: .gitbook/assets/banka.png
+coverY: 0
 ---
 
 # Configuration

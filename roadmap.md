@@ -1,5 +1,7 @@
 ---
 description: Upcoming features and improvements.
+cover: .gitbook/assets/banka.png
+coverY: 0
 ---
 
 # Roadmap
