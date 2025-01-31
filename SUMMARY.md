@@ -1,4 +1,4 @@
-# Summary
+# Table of contents
 
 * [Introduction](README.md)
 * [Getting Started](getting-started.md)
@@ -11,3 +11,4 @@
 * [Troubleshooting](troubleshooting.md)
 * [FAQ](faq.md)
 * [Roadmap](roadmap.md)
+* [Official Links](official-links.md)
